@@ -7,4 +7,4 @@ This repo provides a collection of models which demonstrate a foundational under
 
 Single linear regression model output (house prices vs sqm):
 
-![alt text](https://github.com/dventura11997/horse-form-sv-app/blob/main/doco/tech_diagram.jpg?raw=true)
+![alt text](https://github.com/dventura11997/found_ml_projects/blob/main/diagrams/slr_house_prices_sqm.jpg?raw=true)
