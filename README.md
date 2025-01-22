@@ -1,6 +1,6 @@
 # Project description
 
-This repo provides a collection of models which demonstrate a foundational understanding of machine learning, it includes:
+This repo provides a collection of models which demonstrate an understanding of foundational machine learning concepts, it includes:
 - Single linear regression model for house prices vs square meterage
 
 # Technical diagrams
